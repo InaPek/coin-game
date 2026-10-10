@@ -1,0 +1,12 @@
+{
+  "name": "coin-game",
+  "version": "1.0.0",
+  "description": "Console game Heads or Tails with file logging",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js game.log"
+  },
+  "keywords": ["cli", "game", "readline", "fs", "path"],
+  "author": "",
+  "license": "ISC"
+}
